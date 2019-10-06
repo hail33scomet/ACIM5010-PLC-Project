@@ -1,6 +1,10 @@
 # ACIM5010-PLC-Project
 Allen-Bradley 1769-L32E CompactLogix Bin Sorting Project for BCIT
 
+Programmed in Ladder Logic
+
+May 2019
+
 General Description:
 Two separate bins will be filled each with a pre-determined number of items.  The conveyer that is loading the bins will shut down when the sweep arm is making the transition from filling one bin to another.This system consists of:            
 -  A single emergency stop
